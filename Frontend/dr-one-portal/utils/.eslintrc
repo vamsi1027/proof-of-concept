@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "no-console": "off"
+  },
+  "extends": [
+    "ts-important-stuff",
+    "plugin:prettier/recommended"
+  ],
+  "parser": "@babel/eslint-parser"
+}

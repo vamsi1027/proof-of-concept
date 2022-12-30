@@ -1,0 +1,15 @@
+.aggregate-skeleton .header {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.aggregate-skeleton .summary {
+  height: 8rem;
+  margin: 1rem 0;
+}
+
+.aggregate-skeleton .summary-item {
+  height: 100%;
+}

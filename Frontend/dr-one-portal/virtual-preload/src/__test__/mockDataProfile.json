@@ -1,0 +1,548 @@
+{
+    "data": [
+        {
+            "id": "61687891e472bb00014ac567",
+            "channelId": "607fe966cdf89e0001553913",
+            "version": null,
+            "items": [
+                {
+                    "deviceId": "5f73168ac3674c0001c8fec6",
+                    "deviceMake": "ALL",
+                    "deviceModel": "ALL",
+                    "deviceName": "ALL",
+                    "slots": [
+                        {
+                            "preloadChannelSlotIndex": 0,
+                            "preloadSupportedAppId": "61308229e472bb00014ac548",
+                            "appName": "Netflix",
+                            "appIcon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s180",
+                            "appVersionName": "5.1.",
+                            "appVersionCode": "17106",
+                            "packageName": "com.netflix.mediaclient"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 1,
+                            "preloadSupportedAppId": "61307f62e472bb00014ac545",
+                            "appName": "Patreon",
+                            "appIcon": "https://play-lh.googleusercontent.com/Na6tpXBhckELpKiT8y0rTE6iJeytOHszx3yBdPbVujrjD0uPrZlNq6CgdagSORdhaQ=s180",
+                            "appVersionName": "3.10.24",
+                            "appVersionCode": "156",
+                            "packageName": "com.patreon.android"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 2,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 3,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 4,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 5,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        }
+                    ]
+                },
+                {
+                    "deviceId": "6138dd0be472bb00014ac556",
+                    "deviceMake": "VIVO",
+                    "deviceModel": "S1",
+                    "deviceName": "Vivo S1",
+                    "slots": [
+                        {
+                            "preloadChannelSlotIndex": 0,
+                            "preloadSupportedAppId": "61308229e472bb00014ac548",
+                            "appName": "Netflix",
+                            "appIcon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s180",
+                            "appVersionName": "5.1.",
+                            "appVersionCode": "17106",
+                            "packageName": "com.netflix.mediaclient"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 1,
+                            "preloadSupportedAppId": "613226ace472bb00014ac54e",
+                            "appName": "Netflix",
+                            "appIcon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s180",
+                            "appVersionName": "7.118.",
+                            "appVersionCode": "35579",
+                            "packageName": "com.netflix.mediaclient"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 2,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 3,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 4,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 5,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        }
+                    ]
+                },
+                {
+                    "deviceId": "5bc6ef5422deca0001ecd036",
+                    "deviceMake": "Nokia",
+                    "deviceModel": "N611",
+                    "deviceName": "nokia 6",
+                    "slots": [
+                        {
+                            "preloadChannelSlotIndex": 0,
+                            "preloadSupportedAppId": "61308229e472bb00014ac548",
+                            "appName": "Netflix",
+                            "appIcon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s180",
+                            "appVersionName": "5.1.",
+                            "appVersionCode": "17106",
+                            "packageName": "com.netflix.mediaclient"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 1,
+                            "preloadSupportedAppId": "5bcf06aaa0284b000192441c",
+                            "appName": "Birthday Calendar 2.0.2",
+                            "appIcon": "https://s3-sa-east-1.amazonaws.com/iu-prod-claro/5a294f81993c8f1570c2550d/28022018/1519801074939/default-logo1.png",
+                            "appVersionName": "2.0.2",
+                            "appVersionCode": "24",
+                            "packageName": "com.kallisto.birthdaycalendar"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 2,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 3,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 4,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 5,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        }
+                    ]
+                },
+                {
+                    "deviceId": "5bd2cda57ae8d62cecb3bb37",
+                    "deviceMake": "samsung",
+                    "deviceModel": "YP-GI2",
+                    "deviceName": "Galaxy 070",
+                    "slots": [
+                        {
+                            "preloadChannelSlotIndex": 0,
+                            "preloadSupportedAppId": "6148ac19e472bb00014ac55c",
+                            "appName": "Cricbuzz",
+                            "appIcon": "https://play-lh.googleusercontent.com/DR77tjTRELjjz08osmWgvIFyUvkbQItRf0II8r-eaIzLDOH9YGxSIfIrcToj3IOriyc=s180",
+                            "appVersionName": "5.03.05",
+                            "appVersionCode": "1521050305",
+                            "packageName": "com.cricbuzz.android"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 1,
+                            "preloadSupportedAppId": "5bcf06aaa0284b000192441c",
+                            "appName": "Birthday Calendar 2.0.2",
+                            "appIcon": "https://s3-sa-east-1.amazonaws.com/iu-prod-claro/5a294f81993c8f1570c2550d/28022018/1519801074939/default-logo1.png",
+                            "appVersionName": "2.0.2",
+                            "appVersionCode": "24",
+                            "packageName": "com.kallisto.birthdaycalendar"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 2,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 3,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 4,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 5,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        }
+                    ]
+                }
+            ],
+            "status": "PUBLISHED",
+            "rejection": null,
+            "organizationId": "5a294f81993c8f1570c2550d",
+            "createdUserId": "60dc9cb31e2fe235ba6a318e",
+            "lastUpdatedUserId": "6148aab3b57c266b39167a12",
+            "createdAt": 1634236561,
+            "reviewById": "6148aab3b57c266b39167a12",
+            "updatedAt": 1636663253,
+            "createdDate": "2021-10-14T18:36:01.708+0000",
+            "updatedDate": "2021-11-11T20:40:53.849+0000",
+            "enabledSlots": [
+                0,
+                1
+            ]
+        },
+        {
+            "id": "618d7fd5e472bb00014ac572",
+            "channelId": "607fe966cdf89e0001553913",
+            "version": null,
+            "items": [
+                {
+                    "deviceId": "5f73168ac3674c0001c8fec6",
+                    "deviceMake": "ALL",
+                    "deviceModel": "ALL",
+                    "deviceName": "ALL",
+                    "slots": [
+                        {
+                            "preloadChannelSlotIndex": 0,
+                            "preloadSupportedAppId": "61308229e472bb00014ac548",
+                            "appName": "Netflix",
+                            "appIcon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s180",
+                            "appVersionName": "5.1.",
+                            "appVersionCode": "17106",
+                            "packageName": "com.netflix.mediaclient"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 1,
+                            "preloadSupportedAppId": "61307f62e472bb00014ac545",
+                            "appName": "Patreon",
+                            "appIcon": "https://play-lh.googleusercontent.com/Na6tpXBhckELpKiT8y0rTE6iJeytOHszx3yBdPbVujrjD0uPrZlNq6CgdagSORdhaQ=s180",
+                            "appVersionName": "3.10.24",
+                            "appVersionCode": "156",
+                            "packageName": "com.patreon.android"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 2,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 3,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 4,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 5,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        }
+                    ]
+                },
+                {
+                    "deviceId": "6138dd0be472bb00014ac556",
+                    "deviceMake": "VIVO",
+                    "deviceModel": "S1",
+                    "deviceName": "Vivo S1",
+                    "slots": [
+                        {
+                            "preloadChannelSlotIndex": 0,
+                            "preloadSupportedAppId": "61308229e472bb00014ac548",
+                            "appName": "Netflix",
+                            "appIcon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s180",
+                            "appVersionName": "5.1.",
+                            "appVersionCode": "17106",
+                            "packageName": "com.netflix.mediaclient"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 1,
+                            "preloadSupportedAppId": "613226ace472bb00014ac54e",
+                            "appName": "Netflix",
+                            "appIcon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s180",
+                            "appVersionName": "7.118.",
+                            "appVersionCode": "35579",
+                            "packageName": "com.netflix.mediaclient"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 2,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 3,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 4,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 5,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        }
+                    ]
+                },
+                {
+                    "deviceId": "5bc6ef5422deca0001ecd036",
+                    "deviceMake": "Nokia",
+                    "deviceModel": "N611",
+                    "deviceName": "nokia 6",
+                    "slots": [
+                        {
+                            "preloadChannelSlotIndex": 0,
+                            "preloadSupportedAppId": "61308229e472bb00014ac548",
+                            "appName": "Netflix",
+                            "appIcon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI=s180",
+                            "appVersionName": "5.1.",
+                            "appVersionCode": "17106",
+                            "packageName": "com.netflix.mediaclient"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 1,
+                            "preloadSupportedAppId": "5bcf06aaa0284b000192441c",
+                            "appName": "Birthday Calendar 2.0.2",
+                            "appIcon": "https://s3-sa-east-1.amazonaws.com/iu-prod-claro/5a294f81993c8f1570c2550d/28022018/1519801074939/default-logo1.png",
+                            "appVersionName": "2.0.2",
+                            "appVersionCode": "24",
+                            "packageName": "com.kallisto.birthdaycalendar"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 2,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 3,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 4,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 5,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        }
+                    ]
+                },
+                {
+                    "deviceId": "5bd2cda57ae8d62cecb3bb37",
+                    "deviceMake": "samsung",
+                    "deviceModel": "YP-GI2",
+                    "deviceName": "Galaxy 070",
+                    "slots": [
+                        {
+                            "preloadChannelSlotIndex": 0,
+                            "preloadSupportedAppId": "6148ac19e472bb00014ac55c",
+                            "appName": "Cricbuzz",
+                            "appIcon": "https://play-lh.googleusercontent.com/DR77tjTRELjjz08osmWgvIFyUvkbQItRf0II8r-eaIzLDOH9YGxSIfIrcToj3IOriyc=s180",
+                            "appVersionName": "5.03.05",
+                            "appVersionCode": "1521050305",
+                            "packageName": "com.cricbuzz.android"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 1,
+                            "preloadSupportedAppId": "5bcf06aaa0284b000192441c",
+                            "appName": "Birthday Calendar 2.0.2",
+                            "appIcon": "https://s3-sa-east-1.amazonaws.com/iu-prod-claro/5a294f81993c8f1570c2550d/28022018/1519801074939/default-logo1.png",
+                            "appVersionName": "2.0.2",
+                            "appVersionCode": "24",
+                            "packageName": "com.kallisto.birthdaycalendar"
+                        },
+                        {
+                            "preloadChannelSlotIndex": 2,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 3,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 4,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        },
+                        {
+                            "preloadChannelSlotIndex": 5,
+                            "preloadSupportedAppId": null,
+                            "appName": null,
+                            "appIcon": null,
+                            "appVersionName": null,
+                            "appVersionCode": null,
+                            "packageName": null
+                        }
+                    ]
+                }
+            ],
+            "status": "LOCKED",
+            "rejection": null,
+            "organizationId": "5a294f81993c8f1570c2550d",
+            "createdUserId": "6148aab3b57c266b39167a12",
+            "lastUpdatedUserId": "irawati.gole@digitalreef.com",
+            "createdAt": 1636663253,
+            "reviewById": "irawati.gole@digitalreef.com",
+            "updatedAt": 1645003538,
+            "createdDate": "2021-11-11T20:40:53.851+0000",
+            "updatedDate": "2022-02-16T09:25:38.158+0000",
+            "enabledSlots": [
+                0,
+                1
+            ]
+        }
+    ],
+    "status": "0",
+    "message": "Preload Profiles found successfully",
+    "error": null,
+    "currentPage": null,
+    "totalItems": null,
+    "totalPages": null
+}

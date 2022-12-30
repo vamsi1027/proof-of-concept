@@ -1,0 +1,64 @@
+/* Parent */
+.aggregate {
+  padding: 0;
+}
+
+.aggregate .header {
+  margin: 1rem 0;
+}
+
+.aggregate .summaryHeader {
+  margin: 1rem 0;
+}
+
+.aggregate .conversionFunnel {
+  margin: 1rem 0;
+}
+
+.aggregate .clicksFunnel {
+  margin: 1rem 0;
+}
+
+.aggregate .campaignsPerformance {
+  margin: 1rem 0;
+}
+
+.aggregate .audience {
+  margin: 1rem 0;
+}
+
+.aggregate .geography {
+  margin: 1rem 0;
+}
+
+.summaryHeader{
+  margin: 0 !important;
+}
+.summaryHeader .summaryCard {
+  padding: 15px 20px;
+}
+.summaryHeader .summaryCard .content h3{
+  font-size: 32px;
+  font-weight: 700;
+  color: #223354;
+  line-height: 37.5px;
+  margin-top: 10px;
+}
+
+.summaryHeader .summaryCard h6 p {
+  line-height: 25.78px;
+  font-weight: 400;
+  color: #223354;
+  opacity: 0.5;
+}
+.summaryHeader .summaryCard .tooltip-icons{
+  margin-left: 2px;
+}
+.summaryHeader .summaryCard .tooltip-icons .MuiSvgIcon-root {
+  font-size: 17px;
+}
+.header-main-btn.calandar-btn {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}

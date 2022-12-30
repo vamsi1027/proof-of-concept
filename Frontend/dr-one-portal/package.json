@@ -1,0 +1,32 @@
+{
+  "name": "dr-one-portal",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "git@github.com:Digita1Reef/dr-one-portal.git",
+  "scripts": {
+    "start:all": "node start.js",
+    "start:base": "node start-base.js",
+    "lint": "eslint . --fix --ext js,ts,tsx --resolve-plugins-relative-to .",
+    "service-update": "node service.update.js",
+    "build:all": "node build.js",
+    "postbuild:all": "NODE_ENV=testing node service.update.js",
+    "build:all:production": "NODE_ENV=prod node build.js",
+    "postbuild:all:production": "NODE_ENV=prod node service.update.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/eslint-parser": "^7.14.7",
+    "@babel/plugin-transform-runtime": "^7.14.5",
+    "@babel/preset-env": "^7.14.7",
+    "@babel/preset-react": "^7.14.5",
+    "@babel/preset-typescript": "^7.14.5",
+    "@babel/runtime": "^7.14.6",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-ts-important-stuff": "^1.0.0",
+    "eslint-config-ts-react-important-stuff": "^3.0.0",
+    "prettier": "^2.3.2",
+    "pretty-quick": "^3.1.1",
+    "eslint-plugin-prettier": "^4.0.0"
+  }
+}

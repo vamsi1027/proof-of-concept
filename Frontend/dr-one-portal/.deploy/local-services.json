@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@dr-one/root-config": "http://localhost:9000/dr-one-root-config.js",
+    "@dr-one/core": "http://localhost:8500/dr-one-core.js",
+    "@dr-one/campaign": "http://localhost:4200/main.js"
+  }
+}

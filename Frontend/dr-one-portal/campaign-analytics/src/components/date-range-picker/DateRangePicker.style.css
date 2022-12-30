@@ -1,0 +1,32 @@
+/* Parent */
+.drp {
+}
+
+/* Header */
+.drp .header {
+  padding: 0.125rem 0.75rem;
+}
+
+.drp .header h3 {
+  font-size: medium;
+  font-weight: 600;
+}
+
+/* Footer */
+.drp .footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between !important;
+  margin: 1rem;
+}
+
+.drp .footer button {
+  min-width: 10rem;
+}
+
+/* Default styles updated */
+.MuiPaper-elevation5 {
+  border-bottom:1px solid #22335435;
+  border-top:1px solid #22335435;
+  box-shadow: none !important;
+}

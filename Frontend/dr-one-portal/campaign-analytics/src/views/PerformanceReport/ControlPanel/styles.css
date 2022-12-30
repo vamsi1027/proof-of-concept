@@ -1,0 +1,9 @@
+.PerformanceReportControlPanel {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 4rem;
+  width: 100%;
+  padding: 1rem 2rem;
+}

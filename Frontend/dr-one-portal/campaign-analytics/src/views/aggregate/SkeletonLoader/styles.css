@@ -1,0 +1,46 @@
+.aggregate-skeleton .header {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.aggregate-skeleton .title {
+  display: flex;
+  flex-direction: column;
+}
+
+.aggregate-skeleton .nav {
+  height: 1.5rem;
+  width: 25rem;
+}
+
+.aggregate-skeleton .h1 {
+  height: 4rem;
+  width: 23rem;
+}
+
+.aggregate-skeleton .actions {
+  display: flex;
+  flex-direction: row;
+}
+
+.aggregate-skeleton .action {
+  height: 2.5rem;
+  margin: 0 1rem;
+  width: 10rem;
+}
+
+.aggregate-skeleton .summary {
+  height: 8rem;
+  margin: 1rem 0;
+}
+
+.aggregate-skeleton .summary-item {
+  height: 100%;
+}
+
+.aggregate-skeleton .wrapper {
+  height: 30rem;
+  margin: 1rem 0;
+}

@@ -1,0 +1,10 @@
+.RelatedBadge {
+  background: #ebf9ff;
+  border-radius: 0.25rem;
+  color: #1854d1;
+  font-weight: 600;
+  margin-left: auto;
+  margin-right: 1rem;
+  max-width: max-content;
+  padding: 0.25rem 0.75rem;
+}

@@ -1,0 +1,8 @@
+const ANALYTICS_PERMISSION: string[] =  
+["R_CAMPAIGN",
+"R_CAMPAIGN_OWN_ORG",
+"R_CAMPAIGN_OWN"];
+
+export {
+    ANALYTICS_PERMISSION
+}

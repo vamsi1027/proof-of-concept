@@ -1,0 +1,19 @@
+.performance-report-skeleton {
+  padding: 1rem;
+}
+
+.performance-report-skeleton .PerformanceReportControlPanel {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 4rem;
+  padding: 1rem 2rem;
+  width: 100%;
+}
+
+.performance-report-skeleton .action {
+  height: 2.5rem;
+  margin: 0 1rem;
+  width: 10rem;
+}

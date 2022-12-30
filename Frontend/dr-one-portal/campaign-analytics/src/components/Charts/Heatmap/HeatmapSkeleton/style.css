@@ -1,0 +1,8 @@
+.HeatmapSkeleton {
+  filter: grayscale(90%) opacity(75%);
+  height: calc(100% - 2rem);
+}
+
+.HeatmapSkeleton svg text {
+  filter: blur(3px);
+}

@@ -1,0 +1,12 @@
+.clusteredSkeleton {
+    filter: grayscale(90%) opacity(75%);
+    height: 100%;
+  }
+  
+  .clusteredSkeleton svg text {
+    filter: blur(3px);
+  }
+  .clusteredSkeleton span {
+    filter: blur(3px);
+  }
+  
