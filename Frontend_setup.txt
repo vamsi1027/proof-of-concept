@@ -1,0 +1,29 @@
+D:\DigitalReef\Frontend\datarewards-portal
+
+#in root folder
+npm i
+cd react-app/
+npm i
+                   
+To run project
+D:\DigitalReef\Frontend\datarewards-portal\react-app - npm start
+
+
+dr-one-portal
+cd root/
+npm i
+cd ../shared-component/
+npm i
+cd ../campaign/
+npm i
+cd ../core/
+npm i
+cd ../utils/
+npm i
+
+Do changes in these files
+root/src/index.ejs-Change  -  "@dr-one/data-rewards": "//localhost:8080/react-app-react-app.js",
+utils/src/api.ts -Change 'https://webapi-uatv2.digitalreef.com'
+
+To start the project 
+D:\DigitalReef\Frontend\dr-one-portal - npm run start:base 
